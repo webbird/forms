@@ -1,0 +1,16 @@
+{
+    "name": "webbird/forms",
+    "type": "standard",
+    "description": "",
+    "license": "",
+    "require": {
+    },
+    "require-dev": {
+        "psalm/phar": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "webbird\\forms\\": "src/webbird/forms/"
+        }
+    }
+}
