@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "webbird/common": "dev-master",
-        "siriusphp/validation": "^1.0"
+        "webbird/common": "dev-master"
     },
     "require-dev": {
         "psalm/phar": "*"
