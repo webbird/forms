@@ -3,7 +3,14 @@
     "type": "standard",
     "description": "",
     "license": "",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/webbird/common"
+        }
+    ],
     "require": {
+        "webbird/common": "dev-master"
     },
     "require-dev": {
         "psalm/phar": "*"
